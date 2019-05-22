@@ -1,0 +1,5 @@
+mpv (cli tool)
+    brew install mpv
+
+goprocam (python package)
+    pip3 install goprocam
